@@ -20,4 +20,4 @@ after_success:
     - docker push kalalbasit/multi-nginx
     - docker push kalalbasit/multi-server
     - docker push kalalbasit/multi-worker
-
+language: generic
